@@ -1,0 +1,25 @@
+body {
+    background-color:lightslategray
+}
+
+
+.Title{
+    text-align:center;
+    background-color: black;
+    color:lightgrey;
+    font-size: 36px;
+    
+}
+
+.NormSanders {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.Main {
+    text-align:center;
+    color:black;
+    font-size: 18px;
+}
