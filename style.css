@@ -8,7 +8,8 @@ body {
     background-color: black;
     color:lightgrey;
     font-size: 36px;
-    
+    padding: 10px;
+    margin: 40px;
 }
 
 .NormSanders {
@@ -22,4 +23,6 @@ body {
     text-align:center;
     color:black;
     font-size: 18px;
+    padding: 15px;
 }
+
