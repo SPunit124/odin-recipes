@@ -18,9 +18,13 @@ body {
 }
 
 .Main {
-    text-align:center;
-    color:black;
-    font-size: 18px;
-    padding: 15px;
+    display:flex;
+    justify-content:space-between;
+    font-size:20px;
+    border-style:groove;
+    background-color:lightcyan;
+    color:white;
+    margin:40px;
+    padding:10px
 }
 
